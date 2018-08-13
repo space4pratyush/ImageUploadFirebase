@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "363591976341",
+    "firebase_url": "https://imagefirebase-458b1.firebaseio.com",
+    "project_id": "imagefirebase-458b1",
+    "storage_bucket": "imagefirebase-458b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363591976341:android:80889ac5aabbcc1f",
+        "android_client_info": {
+          "package_name": "com.example.pratyush.imagefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363591976341-mr57t0em1spirnrdopbg54h1mogffteo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pratyush.imagefirebase",
+            "certificate_hash": "817407f04ffa3fe665d45cf0f2e6fe8309245af8"
+          }
+        },
+        {
+          "client_id": "363591976341-nqoehnorico1o007k7r80a8nkdu2932m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUxIy3rXzy0lLTHfdC1XysKwAkfy9BVkI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363591976341-nqoehnorico1o007k7r80a8nkdu2932m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363591976341:android:35278ad1b541d540",
+        "android_client_info": {
+          "package_name": "com.example.pratyush.imageuploadfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363591976341-3b2q7ok756gf248a7i5v3sfqli9tl5ed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pratyush.imageuploadfirebase",
+            "certificate_hash": "817407f04ffa3fe665d45cf0f2e6fe8309245af8"
+          }
+        },
+        {
+          "client_id": "363591976341-nqoehnorico1o007k7r80a8nkdu2932m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUxIy3rXzy0lLTHfdC1XysKwAkfy9BVkI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363591976341-nqoehnorico1o007k7r80a8nkdu2932m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
